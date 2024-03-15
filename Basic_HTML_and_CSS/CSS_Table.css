@@ -1,0 +1,18 @@
+table {
+    border: 2px steelblue;
+}
+
+td:hover {
+    background-color: bisque;
+    color: blueviolet;
+}
+
+tr, th {
+    background-color: floralwhite;
+    color: darkolivegreen;
+}
+
+tr, td {
+    background-color: azure;
+    color: black;
+}
