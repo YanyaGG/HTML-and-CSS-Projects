@@ -1,0 +1,30 @@
+html {
+    font-family: 'Lucida Sans';
+    font-size: medium;
+    width: 80%;
+    margin: auto;
+    border: 8px double darkolivegreen;
+    border-radius: 4px;
+    background-color: bisque;
+    text-align: center;
+}
+
+.wrap {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    overflow: hidden;
+    top: 0;
+    left: 0;
+    text-align: left;
+    padding-left: 130px;
+}
+
+.menu-container {
+    max-height: 360px;
+    margin: 0% auto;
+    content: " ";
+    width: 100%;
+    position: fixed;
+    z-index: 100;
+}
